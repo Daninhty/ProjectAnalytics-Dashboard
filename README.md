@@ -86,4 +86,14 @@ Developed an interactive dashboard consisting of:
 * Certain project types require significantly higher budgets
 * Contractor performance varies in terms of efficiency and project count
 * Project duration has a direct impact on cost efficiency
-* Some data categories (e.g., “Unknown” values) may affect KPI interpretation
+* Some data categories (e.g., “Tidak Diketahui” values) may affect KPI interpretation
+
+## How to Use
+
+1. Open the Power BI file (`.pbix`)
+2. Use slicers to filter data by:
+
+   * Contractor
+   * Location
+   * Year
+3. Explore insights through interactive visuals
